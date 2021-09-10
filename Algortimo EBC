@@ -1,0 +1,31 @@
+Algoritmo
+Problema: Preparar un tazón mediano de arroz blanco
+
+Análisis
+Entrada:
+Tener 300 gr de arroz de grano corto sin almidón,  una olla con tapa, un tazón mediano de cualquier material, un temporizador o reloj, un cucharón de plástico o metal y una jarra de cualquier material con un litro de agua
+
+Restricciones: 
+Tener todos los ingredientes necesarios y lavarse las manos
+
+Salida:
+Tazón mediano de arroz blanco
+
+Diseño:
+
+1.	Lavarse las manos 
+2.	Colocar el arroz en la olla y remojarlo en 350 ml de agua 
+3.	Medir 30 minutos con el temporizador
+4.	Escurrir totalmente el agua del arroz
+5.	Agregar exactamente 500 ml de agua al arroz
+6.	Colocar la olla con el arroz en la estufa
+7.	Prender la estufa y poner el fuego alto
+8.	Medir 15 minutos con el temporizador
+9.	¿Esta Hirviendo?        
+10.	  Si – ir al paso 12
+11.	NO -ir al paso 9
+12.	Cambiar el fuego a llama baja 
+13.	Tapar el arroz por 12 minutos exactos
+14.	Apagar la estufa
+15.	Terminados los 12 minutos, colocar el arroz con el cucharón en el tazón
+Fin
