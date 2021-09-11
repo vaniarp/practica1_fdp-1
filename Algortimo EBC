@@ -1,18 +1,13 @@
 Algoritmo
 Problema: Preparar un tazón mediano de arroz blanco
-
 Análisis
 Entrada:
 Tener 300 gr de arroz de grano corto sin almidón,  una olla con tapa, un tazón mediano de cualquier material, un temporizador o reloj, un cucharón de plástico o metal y una jarra de cualquier material con un litro de agua
-
 Restricciones: 
 Tener todos los ingredientes necesarios y lavarse las manos
-
 Salida:
 Tazón mediano de arroz blanco
-
 Diseño:
-
 1.	Lavarse las manos 
 2.	Colocar el arroz en la olla y remojarlo en 350 ml de agua 
 3.	Medir 30 minutos con el temporizador
